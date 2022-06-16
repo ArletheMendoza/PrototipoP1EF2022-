@@ -1,0 +1,6 @@
+               s              puma           n                             
+               7808           zapatos        puma                          
+               9090           playeras       nike                          
+               123            sueter         adidas                        
+               032            Gorras         nike                          
+               8989           playeras       veja                          
